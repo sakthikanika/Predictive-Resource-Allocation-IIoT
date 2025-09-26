@@ -1,4 +1,4 @@
-# Predictive Resource Allocation for Mobility-Aware Task Offloading and Migration in Edge Environments
+# Predictive Resource Allocation for Mobility-Aware Task Offloading and Migration in Environments
 
 This repository contains two related projects that explore task offloading and migration strategies in Industrial Internet of Things (IIoT) environments using the MCOTM framework:
 
